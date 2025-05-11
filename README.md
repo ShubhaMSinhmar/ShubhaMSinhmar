@@ -3,9 +3,9 @@
 
 - 🔭 Working as FullStack intern at [Medlr](medlr.in)
 
-- 🌱 I’m currently learning and working on **Next.js, React.js, Tailwind, Node.js, Gen AI**
-
 - 🔭 Worked as ERP intern at [SP](https://shubhampack.com/)
+
+- 🌱 I’m currently learning and working on **Next.js, React.js, Tailwind, Node.js, Gen AI**
 
 - 📫 How to reach me **shubham.sinhmar09@gmail.com**
 
