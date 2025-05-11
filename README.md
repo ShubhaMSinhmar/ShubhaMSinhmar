@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="./image.jpeg" height="175px"/></a>
-
 <h1 align="center">Hi, I'm Shubham</h1>
 <h3 align="center">I'm currently a final year computer science student at Thapar University with interest in Fullstack development and Artificial Intelligence</h3>
 
