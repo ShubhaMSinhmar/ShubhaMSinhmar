@@ -3,8 +3,6 @@
 <h1 align="center">Hi, I'm Shubham</h1>
 <h3 align="center">I'm currently a final year computer science student at Thapar University with interest in Fullstack development and Artificial Intelligence</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShubhaMSinhmar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🙋‍♂️ About Me
 
 - 🔭 Working as a FullStack Intern at **[Medlr](https://www.medlr.in/)**
@@ -19,7 +17,7 @@
   - **Web3js**
   - **Node.js**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🧑🏻‍💻 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **shubham.sinhmar09@gmail.com**
 
