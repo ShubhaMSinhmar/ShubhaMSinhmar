@@ -103,19 +103,19 @@
 </table>
 
 <p align="center">
-    <a href="https://github.com/Tusharbecoding/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tusharbecoding's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharbecoding&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/ShubhaMSinhmar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShubhaMSinhmar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhaMSinhmar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a><img alt="Tusharbecoding's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tusharbecoding&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a><img alt="Tusharbecoding's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharbecoding&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a><img alt="ShubhaMSinhmar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShubhaMSinhmar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a><img alt="ShubhaMSinhmar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhaMSinhmar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusharbecoding&bg_color=0f0f0f&title_color=313552&text_color=886f6f&v=2"/>
+<img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShubhaMSinhmar&bg_color=0f0f0f&title_color=313552&text_color=886f6f&v=2"/>
 
 <br/>
 <br/>
@@ -131,12 +131,12 @@
 
 </p>
 
-<a href="https://buymeacoffee.com/tusharbecoding
+<a href="https://buymeacoffee.com/ShubhaMSinhmar
   " target="_blank" rel="noreferrer nofollow">
 <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/ShubhaMSinhmar?tab=followers"><img src="https://img.shields.io/github/followers/Tusharbecoding?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ShubhaMSinhmar?tab=followers"><img src="https://img.shields.io/github/followers/ShubhaMSinhmar?label=Followers&style=social" alt="GitHub Badge"></a>
 ![Profile views](https://gpvc.arturio.dev/ShubhaMSinhmar)
