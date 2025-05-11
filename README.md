@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Sinhmar</h1>
+<h1 align="center">Hey , I'm Shubham Sinhmar</h1>
 <h3 align="center">I'm currently a final year CS student at Thapar University with interest in Fullstack development and Artificial Intelligence.</h3>
 
 - 🔭 Working as FullStack intern at [Medlr](medlr.in)
