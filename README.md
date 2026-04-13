@@ -12,6 +12,7 @@
 
   - **Next.js**
   - **React.js**
+  - **SCSS**
   - **Tailwind**
   - **Gen AI**
   - **Web3js**
