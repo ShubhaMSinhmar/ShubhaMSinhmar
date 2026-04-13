@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Working as Associate Software Developer at **[AIAVANTRA]**
+- 🔭 Working as Associate Software Developer at **AIAVANTRA**
 - 🔭 Worked as a Frontend Developer Intern at **[Repro India Limited](https://www.reproindialtd.com/)**
 - 🔭 Worked as a FullStack Intern at **[Medlr](https://www.medlr.in/)**
 - 🔭 Worked as a ERP Intern at **[SP](https://www.shubhampack.com/)**
